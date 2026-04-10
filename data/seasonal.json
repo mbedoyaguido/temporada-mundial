@@ -1,0 +1,407 @@
+{
+  "ESP": { "name": "España", "name_en": "Spain", "items": [
+    {"n":"Naranjas","t":"fruta","m":[0,1,2,11]},{"n":"Mandarinas","t":"fruta","m":[0,1,10,11]},
+    {"n":"Fresas","t":"fruta","m":[2,3,4,5]},{"n":"Cerezas","t":"fruta","m":[4,5,6]},
+    {"n":"Melocotones","t":"fruta","m":[5,6,7,8]},{"n":"Uvas","t":"fruta","m":[7,8,9,10]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Limones","t":"fruta","m":[0,1,2,3,11]},{"n":"Sandías","t":"fruta","m":[6,7,8]},
+    {"n":"Melones","t":"fruta","m":[6,7,8]},{"n":"Peras","t":"fruta","m":[7,8,9,10]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Kiwis","t":"fruta","m":[10,11,0,1]},
+    {"n":"Alcachofas","t":"verdura","m":[2,3,4,10,11]},{"n":"Espárragos","t":"verdura","m":[2,3,4,5]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Pimientos","t":"verdura","m":[6,7,8,9]},
+    {"n":"Berenjenas","t":"verdura","m":[5,6,7,8,9]},{"n":"Calabacines","t":"verdura","m":[5,6,7,8]},
+    {"n":"Espinacas","t":"verdura","m":[0,1,2,3,9,10,11]},{"n":"Lechugas","t":"verdura","m":[2,3,4,5,9,10]},
+    {"n":"Judías verdes","t":"verdura","m":[5,6,7,8,9]},{"n":"Cebollas","t":"verdura","m":[5,6,7,8]},
+    {"n":"Ajos","t":"verdura","m":[5,6,7]},{"n":"Calabaza","t":"verdura","m":[8,9,10,11]}
+  ]},
+  "ITA": { "name": "Italia", "name_en": "Italy", "items": [
+    {"n":"Limones","t":"fruta","m":[0,1,2,11]},{"n":"Naranjas sanguinas","t":"fruta","m":[0,1,2,3]},
+    {"n":"Fresas","t":"fruta","m":[3,4,5,6]},{"n":"Cerezas","t":"fruta","m":[4,5,6]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Uvas","t":"fruta","m":[8,9,10]},
+    {"n":"Melones","t":"fruta","m":[6,7,8]},{"n":"Melocotones","t":"fruta","m":[5,6,7,8]},
+    {"n":"Peras Williams","t":"fruta","m":[7,8,9]},{"n":"Manzanas","t":"fruta","m":[8,9,10,11]},
+    {"n":"Clementinas","t":"fruta","m":[10,11,0,1]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Alcachofas","t":"verdura","m":[2,3,4,10,11]},{"n":"Espárragos","t":"verdura","m":[3,4,5]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Trufa blanca","t":"verdura","m":[9,10,11]},
+    {"n":"Trufa negra","t":"verdura","m":[11,0,1,2]},{"n":"Rúcula","t":"verdura","m":[3,4,5,9,10]},
+    {"n":"Berenjenas","t":"verdura","m":[5,6,7,8,9]},{"n":"Calabacines","t":"verdura","m":[4,5,6,7,8]},
+    {"n":"Pimientos","t":"verdura","m":[6,7,8,9]},{"n":"Radicchio","t":"verdura","m":[9,10,11,0,1]}
+  ]},
+  "FRA": { "name": "Francia", "name_en": "France", "items": [
+    {"n":"Cerezas","t":"fruta","m":[4,5,6]},{"n":"Frambuesas","t":"fruta","m":[5,6,7,8]},
+    {"n":"Fresas","t":"fruta","m":[4,5,6,7]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Peras","t":"fruta","m":[7,8,9,10]},{"n":"Manzanas","t":"fruta","m":[8,9,10,11]},
+    {"n":"Uvas","t":"fruta","m":[8,9,10]},{"n":"Kiwis","t":"fruta","m":[10,11,0,1]},
+    {"n":"Mandarinas","t":"fruta","m":[10,11,0,1]},{"n":"Castañas","t":"fruta","m":[9,10,11]},
+    {"n":"Espárragos","t":"verdura","m":[3,4,5]},{"n":"Endivias","t":"verdura","m":[0,1,2,11]},
+    {"n":"Trufas negras","t":"verdura","m":[11,0,1,2]},{"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},
+    {"n":"Judías verdes","t":"verdura","m":[5,6,7,8]},{"n":"Puerros","t":"verdura","m":[0,1,2,10,11]},
+    {"n":"Alcachofas","t":"verdura","m":[3,4,5,6]},{"n":"Calabaza","t":"verdura","m":[9,10,11]}
+  ]},
+  "DEU": { "name": "Alemania", "name_en": "Germany", "items": [
+    {"n":"Fresas","t":"fruta","m":[4,5,6]},{"n":"Cerezas","t":"fruta","m":[5,6,7]},
+    {"n":"Grosellas","t":"fruta","m":[5,6,7,8]},{"n":"Frambuesas","t":"fruta","m":[5,6,7,8]},
+    {"n":"Ciruelas","t":"fruta","m":[7,8,9]},{"n":"Manzanas","t":"fruta","m":[8,9,10,11]},
+    {"n":"Peras","t":"fruta","m":[7,8,9,10]},{"n":"Arándanos","t":"fruta","m":[6,7,8,9]},
+    {"n":"Espárragos blancos","t":"verdura","m":[3,4,5,6]},{"n":"Coles de Bruselas","t":"verdura","m":[9,10,11,0]},
+    {"n":"Remolacha","t":"verdura","m":[8,9,10,11]},{"n":"Calabaza","t":"verdura","m":[9,10,11]},
+    {"n":"Pepinos","t":"verdura","m":[5,6,7,8]},{"n":"Rábanos","t":"verdura","m":[3,4,5,9,10]}
+  ]},
+  "GBR": { "name": "Reino Unido", "name_en": "United Kingdom", "items": [
+    {"n":"Fresas","t":"fruta","m":[5,6,7]},{"n":"Frambuesas","t":"fruta","m":[6,7,8]},
+    {"n":"Grosellas negras","t":"fruta","m":[6,7,8]},{"n":"Peras","t":"fruta","m":[8,9,10]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Espárragos","t":"verdura","m":[4,5,6]},{"n":"Guisantes","t":"verdura","m":[5,6,7]},
+    {"n":"Judías verdes","t":"verdura","m":[6,7,8,9]},{"n":"Col rizada","t":"verdura","m":[9,10,11,0,1,2]},
+    {"n":"Calabaza","t":"verdura","m":[9,10,11]},{"n":"Remolacha","t":"verdura","m":[6,7,8,9,10]},
+    {"n":"Col de Bruselas","t":"verdura","m":[10,11,0,1]},{"n":"Nabos","t":"verdura","m":[9,10,11,0]}
+  ]},
+  "PRT": { "name": "Portugal", "name_en": "Portugal", "items": [
+    {"n":"Naranjas","t":"fruta","m":[0,1,2,11]},{"n":"Limones","t":"fruta","m":[0,1,2,3,11]},
+    {"n":"Fresas","t":"fruta","m":[2,3,4,5]},{"n":"Cerezas","t":"fruta","m":[4,5,6]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Uvas","t":"fruta","m":[8,9,10]},
+    {"n":"Peras Rocha","t":"fruta","m":[7,8,9,10]},{"n":"Melones","t":"fruta","m":[6,7,8]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Pimientos","t":"verdura","m":[6,7,8,9]},
+    {"n":"Grelos","t":"verdura","m":[0,1,2,3]},{"n":"Coles","t":"verdura","m":[0,1,2,10,11]}
+  ]},
+  "USA": { "name": "Estados Unidos", "name_en": "United States", "items": [
+    {"n":"Arándanos","t":"fruta","m":[5,6,7,8]},{"n":"Fresas","t":"fruta","m":[2,3,4,5,6]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Naranjas","t":"fruta","m":[0,1,2,11]},
+    {"n":"Cerezas","t":"fruta","m":[5,6,7]},{"n":"Duraznos","t":"fruta","m":[6,7,8,9]},
+    {"n":"Uvas","t":"fruta","m":[8,9,10]},{"n":"Peras","t":"fruta","m":[7,8,9,10]},
+    {"n":"Frambuesas","t":"fruta","m":[5,6,7,8]},{"n":"Sandías","t":"fruta","m":[5,6,7,8,9]},
+    {"n":"Calabaza","t":"verdura","m":[8,9,10,11]},{"n":"Maíz dulce","t":"verdura","m":[5,6,7,8,9]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Espárragos","t":"verdura","m":[3,4,5,6]},
+    {"n":"Judías verdes","t":"verdura","m":[5,6,7,8,9]},{"n":"Espinacas","t":"verdura","m":[2,3,4,9,10,11]},
+    {"n":"Arándanos rojos","t":"fruta","m":[9,10,11]},{"n":"Alcachofas","t":"verdura","m":[2,3,4,9,10]}
+  ]},
+  "MEX": { "name": "México", "name_en": "Mexico", "items": [
+    {"n":"Aguacates","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Mangos","t":"fruta","m":[3,4,5,6,7,8]},{"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Guayaba","t":"fruta","m":[9,10,11,0,1]},{"n":"Mamey","t":"fruta","m":[2,3,4,5,6]},
+    {"n":"Pitahaya","t":"fruta","m":[5,6,7,8,9,10]},{"n":"Zapote","t":"fruta","m":[9,10,11,0]},
+    {"n":"Melón","t":"fruta","m":[3,4,5,6,7]},{"n":"Sandía","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Limones","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Chiles","t":"verdura","m":[5,6,7,8,9,10]},{"n":"Nopal","t":"verdura","m":[2,3,4,5,6]},
+    {"n":"Elote","t":"verdura","m":[4,5,6,7,8,9]},{"n":"Jitomate","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Huitlacoche","t":"verdura","m":[6,7,8,9]}
+  ]},
+  "BRA": { "name": "Brasil", "name_en": "Brazil", "items": [
+    {"n":"Açaí","t":"fruta","m":[0,1,2,3,4]},{"n":"Maracuyá","t":"fruta","m":[0,1,2,3,4,11]},
+    {"n":"Mango","t":"fruta","m":[10,11,0,1,2]},{"n":"Piña","t":"fruta","m":[0,1,2,3,4,5,11]},
+    {"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},{"n":"Guava","t":"fruta","m":[3,4,5,6,7,8]},
+    {"n":"Caju","t":"fruta","m":[8,9,10,11,0]},{"n":"Jabuticaba","t":"fruta","m":[8,9,10,11]},
+    {"n":"Cupuaçu","t":"fruta","m":[0,1,2,3]},{"n":"Pitanga","t":"fruta","m":[9,10,11,0]},
+    {"n":"Okra","t":"verdura","m":[11,0,1,2,3]},{"n":"Mandioca","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Palmito","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "ARG": { "name": "Argentina", "name_en": "Argentina", "items": [
+    {"n":"Uvas","t":"fruta","m":[0,1,2,3]},{"n":"Duraznos","t":"fruta","m":[0,1,2,3,11]},
+    {"n":"Peras","t":"fruta","m":[0,1,2,3,11]},{"n":"Manzanas","t":"fruta","m":[1,2,3,4]},
+    {"n":"Frutillas","t":"fruta","m":[9,10,11,0,1]},{"n":"Limones","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Naranjas","t":"fruta","m":[5,6,7,8]},{"n":"Ciruelas","t":"fruta","m":[0,1,2]},
+    {"n":"Tomates","t":"verdura","m":[11,0,1,2,3]},{"n":"Pimientos","t":"verdura","m":[11,0,1,2,3]},
+    {"n":"Berenjenas","t":"verdura","m":[11,0,1,2]},{"n":"Zapallo","t":"verdura","m":[2,3,4,5]}
+  ]},
+  "COL": { "name": "Colombia", "name_en": "Colombia", "items": [
+    {"n":"Mangos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Maracuyá","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Lulo","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Uchuva","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Guanábana","t":"fruta","m":[3,4,5,6,7,8,9]},{"n":"Mora","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Pitahaya amarilla","t":"fruta","m":[0,1,2,5,6,7,8,9,10,11]},
+    {"n":"Tomate de árbol","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Yuca","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "PER": { "name": "Perú", "name_en": "Peru", "items": [
+    {"n":"Lúcuma","t":"fruta","m":[2,3,4,5,6]},{"n":"Chirimoya","t":"fruta","m":[2,3,4,5,6]},
+    {"n":"Maracuyá","t":"fruta","m":[5,6,7,8]},{"n":"Aguaymanto","t":"fruta","m":[4,5,6,7,8,9]},
+    {"n":"Camu camu","t":"fruta","m":[11,0,1,2,3]},{"n":"Guanábana","t":"fruta","m":[0,1,2,3,4]},
+    {"n":"Papas nativas","t":"verdura","m":[3,4,5,6,7]},{"n":"Quinua","t":"verdura","m":[2,3,4]},
+    {"n":"Olluco","t":"verdura","m":[5,6,7]},{"n":"Oca","t":"verdura","m":[5,6,7]}
+  ]},
+  "CHL": { "name": "Chile", "name_en": "Chile", "items": [
+    {"n":"Uvas","t":"fruta","m":[0,1,2,3]},{"n":"Cerezas","t":"fruta","m":[11,0,1,2]},
+    {"n":"Arándanos","t":"fruta","m":[11,0,1,2,3]},{"n":"Frambuesas","t":"fruta","m":[11,0,1,2]},
+    {"n":"Duraznos","t":"fruta","m":[0,1,2,3]},{"n":"Peras","t":"fruta","m":[0,1,2,3]},
+    {"n":"Manzanas","t":"fruta","m":[2,3,4,5]},{"n":"Kiwis","t":"fruta","m":[3,4,5]},
+    {"n":"Tomates","t":"verdura","m":[11,0,1,2,3]},{"n":"Alcachofas","t":"verdura","m":[8,9,10,11,0,1]},
+    {"n":"Espárragos","t":"verdura","m":[9,10,11,0,1]}
+  ]},
+  "JPN": { "name": "Japón", "name_en": "Japan", "items": [
+    {"n":"Yuzu","t":"fruta","m":[10,11,0]},{"n":"Mikan","t":"fruta","m":[9,10,11,0,1]},
+    {"n":"Cerezas Sakura","t":"fruta","m":[3,4,5]},{"n":"Melocotones","t":"fruta","m":[6,7,8]},
+    {"n":"Nashi","t":"fruta","m":[7,8,9]},{"n":"Kakis","t":"fruta","m":[9,10,11]},
+    {"n":"Uvas Shine Muscat","t":"fruta","m":[8,9,10]},{"n":"Fresas","t":"fruta","m":[0,1,2,3,4]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Kumquat","t":"fruta","m":[0,1,2,3]},
+    {"n":"Brotes de bambú","t":"verdura","m":[3,4,5]},{"n":"Daikon","t":"verdura","m":[9,10,11,0,1,2]},
+    {"n":"Edamame","t":"verdura","m":[5,6,7,8]},{"n":"Matsutake","t":"verdura","m":[8,9,10]},
+    {"n":"Shiso","t":"verdura","m":[5,6,7,8,9]}
+  ]},
+  "CHN": { "name": "China", "name_en": "China", "items": [
+    {"n":"Lichi","t":"fruta","m":[4,5,6,7]},{"n":"Longan","t":"fruta","m":[6,7,8]},
+    {"n":"Mangos","t":"fruta","m":[3,4,5,6]},{"n":"Kakis","t":"fruta","m":[9,10,11]},
+    {"n":"Ciruelas","t":"fruta","m":[5,6,7]},{"n":"Fresas","t":"fruta","m":[0,1,2,3,11]},
+    {"n":"Melocotones","t":"fruta","m":[6,7,8]},{"n":"Uvas Xinjiang","t":"fruta","m":[7,8,9,10]},
+    {"n":"Granadas","t":"fruta","m":[8,9,10]},{"n":"Mandarinas","t":"fruta","m":[9,10,11,0,1]},
+    {"n":"Brotes de bambú","t":"verdura","m":[2,3,4]},{"n":"Lotus","t":"verdura","m":[6,7,8,9]},
+    {"n":"Taro","t":"verdura","m":[9,10,11,0]},{"n":"Bok choy","t":"verdura","m":[0,1,2,10,11]},
+    {"n":"Jengibre","t":"verdura","m":[8,9,10,11]}
+  ]},
+  "IND": { "name": "India", "name_en": "India", "items": [
+    {"n":"Mangos Alphonso","t":"fruta","m":[3,4,5,6]},{"n":"Lichis","t":"fruta","m":[4,5,6]},
+    {"n":"Guayaba","t":"fruta","m":[9,10,11,0,1]},{"n":"Chikoo","t":"fruta","m":[2,3,4,5]},
+    {"n":"Jackfruit","t":"fruta","m":[3,4,5,6,7]},{"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Amla","t":"fruta","m":[9,10,11,0]},{"n":"Carambola","t":"fruta","m":[7,8,9,10]},
+    {"n":"Okra","t":"verdura","m":[4,5,6,7,8,9]},{"n":"Berenjenas","t":"verdura","m":[0,1,2,3,9,10,11]},
+    {"n":"Calabaza amarga","t":"verdura","m":[4,5,6,7,8]},{"n":"Hojas de fenogreco","t":"verdura","m":[0,1,2,10,11]},
+    {"n":"Pimientos verdes","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "THA": { "name": "Tailandia", "name_en": "Thailand", "items": [
+    {"n":"Durian","t":"fruta","m":[4,5,6,7]},{"n":"Rambután","t":"fruta","m":[4,5,6,7]},
+    {"n":"Mangostán","t":"fruta","m":[3,4,5,6]},{"n":"Pitahaya","t":"fruta","m":[5,6,7,8,9]},
+    {"n":"Mangos Nam Dok Mai","t":"fruta","m":[3,4,5,6]},{"n":"Longkong","t":"fruta","m":[7,8,9,10]},
+    {"n":"Santol","t":"fruta","m":[5,6,7,8]},{"n":"Pomelo","t":"fruta","m":[8,9,10,11]},
+    {"n":"Lemongrass","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Galangal","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Hojas de lima kaffir","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Bambú","t":"verdura","m":[2,3,4,5]}
+  ]},
+  "AUS": { "name": "Australia", "name_en": "Australia", "items": [
+    {"n":"Mangos","t":"fruta","m":[11,0,1,2,3]},{"n":"Melocotones","t":"fruta","m":[11,0,1,2,3]},
+    {"n":"Uvas","t":"fruta","m":[0,1,2,3]},{"n":"Kiwis","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Naranjas","t":"fruta","m":[5,6,7,8]},{"n":"Mandarinas","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Fresas","t":"fruta","m":[8,9,10,11]},{"n":"Aguacates","t":"fruta","m":[5,6,7,8,9,10]},
+    {"n":"Lichis","t":"fruta","m":[11,0,1,2]},{"n":"Manzanas","t":"fruta","m":[2,3,4,5]},
+    {"n":"Espárragos","t":"verdura","m":[8,9,10,11]},{"n":"Tomates","t":"verdura","m":[9,10,11,0,1,2]},
+    {"n":"Espinacas","t":"verdura","m":[4,5,6,7,8,9]},{"n":"Brócoli","t":"verdura","m":[4,5,6,7,8,9]}
+  ]},
+  "NZL": { "name": "Nueva Zelanda", "name_en": "New Zealand", "items": [
+    {"n":"Kiwis","t":"fruta","m":[3,4,5,6,7]},{"n":"Manzanas","t":"fruta","m":[2,3,4,5]},
+    {"n":"Peras","t":"fruta","m":[1,2,3,4]},{"n":"Fresas","t":"fruta","m":[10,11,0,1]},
+    {"n":"Frambuesas","t":"fruta","m":[11,0,1,2]},{"n":"Arándanos","t":"fruta","m":[0,1,2,3]},
+    {"n":"Cerezas","t":"fruta","m":[11,0,1]},{"n":"Melocotones","t":"fruta","m":[0,1,2]},
+    {"n":"Espárragos","t":"verdura","m":[9,10,11]},{"n":"Calabaza","t":"verdura","m":[2,3,4]},
+    {"n":"Espinacas","t":"verdura","m":[3,4,5,6,7,8,9]}
+  ]},
+  "MAR": { "name": "Marruecos", "name_en": "Morocco", "items": [
+    {"n":"Clementinas","t":"fruta","m":[9,10,11,0,1,2]},{"n":"Naranjas","t":"fruta","m":[0,1,2,11]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Dátiles","t":"fruta","m":[9,10,11,0]},{"n":"Arándanos","t":"fruta","m":[3,4,5]},
+    {"n":"Sandías","t":"fruta","m":[5,6,7,8]},{"n":"Melones","t":"fruta","m":[5,6,7,8]},
+    {"n":"Tomates","t":"verdura","m":[3,4,5,6,7,8,9]},{"n":"Pimientos","t":"verdura","m":[4,5,6,7,8,9]},
+    {"n":"Berenjenas","t":"verdura","m":[4,5,6,7,8,9]},{"n":"Aceitunas","t":"fruta","m":[10,11,0]}
+  ]},
+  "EGY": { "name": "Egipto", "name_en": "Egypt", "items": [
+    {"n":"Mangos","t":"fruta","m":[5,6,7,8]},{"n":"Guayaba","t":"fruta","m":[9,10,11,0]},
+    {"n":"Dátiles","t":"fruta","m":[8,9,10,11]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Fresas","t":"fruta","m":[0,1,2,3]},{"n":"Sandías","t":"fruta","m":[4,5,6,7]},
+    {"n":"Naranjas","t":"fruta","m":[0,1,2,11]},{"n":"Higos","t":"fruta","m":[7,8,9]},
+    {"n":"Tomates","t":"verdura","m":[0,1,2,9,10,11]},{"n":"Pepinos","t":"verdura","m":[0,1,2,3,9,10,11]},
+    {"n":"Berenjenas","t":"verdura","m":[0,1,2,3,9,10,11]},{"n":"Coliflor","t":"verdura","m":[0,1,2,11]}
+  ]},
+  "ZAF": { "name": "Sudáfrica", "name_en": "South Africa", "items": [
+    {"n":"Uvas","t":"fruta","m":[0,1,2,3]},{"n":"Naranjas","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Manzanas","t":"fruta","m":[1,2,3,4,5]},{"n":"Peras","t":"fruta","m":[1,2,3,4]},
+    {"n":"Aguacates","t":"fruta","m":[3,4,5,6,7]},{"n":"Mangos","t":"fruta","m":[10,11,0,1]},
+    {"n":"Litchis","t":"fruta","m":[10,11,0]},{"n":"Melocotones","t":"fruta","m":[11,0,1,2,3]},
+    {"n":"Tomates","t":"verdura","m":[11,0,1,2,3]},{"n":"Calabazas","t":"verdura","m":[1,2,3,4]},
+    {"n":"Espinacas","t":"verdura","m":[4,5,6,7,8]}
+  ]},
+  "KEN": { "name": "Kenia", "name_en": "Kenya", "items": [
+    {"n":"Mangos","t":"fruta","m":[9,10,11,0,1,2]},{"n":"Aguacates","t":"fruta","m":[2,3,4,5,6,7,8]},
+    {"n":"Piñas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Maracuyá","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Judías verdes","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Kale","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Tomates","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "KOR": { "name": "Corea del Sur", "name_en": "South Korea", "items": [
+    {"n":"Fresas","t":"fruta","m":[0,1,2,3,4]},{"n":"Cerezas","t":"fruta","m":[5,6]},
+    {"n":"Melocotones","t":"fruta","m":[7,8,9]},{"n":"Caquis","t":"fruta","m":[9,10,11]},
+    {"n":"Peras Nashi","t":"fruta","m":[8,9,10]},{"n":"Uvas","t":"fruta","m":[8,9,10]},
+    {"n":"Mandarinas Jeju","t":"fruta","m":[10,11,0,1]},{"n":"Manzanas","t":"fruta","m":[8,9,10,11]},
+    {"n":"Brotes de bambú","t":"verdura","m":[3,4,5]},{"n":"Ajo","t":"verdura","m":[4,5,6]},
+    {"n":"Daikon","t":"verdura","m":[9,10,11,0,1]},{"n":"Shiitake","t":"verdura","m":[3,4,5,9,10,11]}
+  ]},
+  "VNM": { "name": "Vietnam", "name_en": "Vietnam", "items": [
+    {"n":"Dragonfruit","t":"fruta","m":[4,5,6,7,8,9,10,11]},
+    {"n":"Mangostán","t":"fruta","m":[5,6,7]},{"n":"Rambután","t":"fruta","m":[4,5,6,7,8]},
+    {"n":"Longan","t":"fruta","m":[6,7,8]},{"n":"Pomelo","t":"fruta","m":[8,9,10,11]},
+    {"n":"Starfruit","t":"fruta","m":[0,1,2,3,7,8,9,10,11]},
+    {"n":"Mangos","t":"fruta","m":[3,4,5,6,7]},{"n":"Jackfruit","t":"fruta","m":[3,4,5,6,7]},
+    {"n":"Lotus","t":"verdura","m":[5,6,7,8,9]},{"n":"Bambú","t":"verdura","m":[0,1,2,3]}
+  ]},
+  "IDN": { "name": "Indonesia", "name_en": "Indonesia", "items": [
+    {"n":"Durian","t":"fruta","m":[10,11,0,1,2,3]},{"n":"Rambután","t":"fruta","m":[10,11,0,1,2]},
+    {"n":"Mangostán","t":"fruta","m":[11,0,1,2]},{"n":"Salak","t":"fruta","m":[0,1,2,11]},
+    {"n":"Mangos","t":"fruta","m":[9,10,11,0,1,2]},{"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Jackfruit","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Bambú","t":"verdura","m":[0,1,2,3]},{"n":"Galangal","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "PHL": { "name": "Filipinas", "name_en": "Philippines", "items": [
+    {"n":"Mangos Carabao","t":"fruta","m":[2,3,4,5,6]},{"n":"Jackfruit","t":"fruta","m":[2,3,4,5,6,7]},
+    {"n":"Rambután","t":"fruta","m":[6,7,8,9]},{"n":"Lanzones","t":"fruta","m":[8,9,10,11]},
+    {"n":"Durian Davao","t":"fruta","m":[8,9,10,11]},{"n":"Caimito","t":"fruta","m":[0,1,2,11]},
+    {"n":"Camote","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Ampalaya","t":"verdura","m":[2,3,4,5,6,7,8,9]}
+  ]},
+  "MYS": { "name": "Malasia", "name_en": "Malaysia", "items": [
+    {"n":"Durian Musang King","t":"fruta","m":[5,6,7,8]},{"n":"Rambután","t":"fruta","m":[5,6,7]},
+    {"n":"Mangostán","t":"fruta","m":[5,6,7,8]},{"n":"Jackfruit","t":"fruta","m":[2,3,4,5,6,7,8]},
+    {"n":"Starfruit","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Galangal","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "IRN": { "name": "Irán", "name_en": "Iran", "items": [
+    {"n":"Granadas","t":"fruta","m":[9,10,11]},{"n":"Pistachos","t":"fruta","m":[9,10]},
+    {"n":"Dátiles","t":"fruta","m":[8,9,10,11]},{"n":"Melones persas","t":"fruta","m":[6,7,8]},
+    {"n":"Cerezas","t":"fruta","m":[4,5,6]},{"n":"Albaricoques","t":"fruta","m":[4,5,6]},
+    {"n":"Uvas","t":"fruta","m":[7,8,9,10]},{"n":"Sandías","t":"fruta","m":[6,7,8]},
+    {"n":"Pepinos","t":"verdura","m":[4,5,6,7,8]},{"n":"Tomates","t":"verdura","m":[5,6,7,8,9]}
+  ]},
+  "SAU": { "name": "Arabia Saudita", "name_en": "Saudi Arabia", "items": [
+    {"n":"Dátiles Medjool","t":"fruta","m":[7,8,9,10]},{"n":"Sandías","t":"fruta","m":[4,5,6,7]},
+    {"n":"Uvas","t":"fruta","m":[7,8,9]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Tomates","t":"verdura","m":[0,1,2,3,10,11]},{"n":"Pepinos","t":"verdura","m":[0,1,2,10,11]}
+  ]},
+  "TUR": { "name": "Turquía", "name_en": "Turkey", "items": [
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Uvas","t":"fruta","m":[7,8,9,10]},
+    {"n":"Cerezas","t":"fruta","m":[4,5,6]},{"n":"Fresas","t":"fruta","m":[3,4,5]},
+    {"n":"Melocotones","t":"fruta","m":[5,6,7,8]},{"n":"Albaricoques","t":"fruta","m":[5,6,7]},
+    {"n":"Granadas","t":"fruta","m":[9,10,11]},{"n":"Avellanas","t":"fruta","m":[8,9,10]},
+    {"n":"Naranjas","t":"fruta","m":[0,1,2,11]},{"n":"Sandías","t":"fruta","m":[6,7,8]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Berenjenas","t":"verdura","m":[5,6,7,8,9]},
+    {"n":"Pimientos","t":"verdura","m":[6,7,8,9]},{"n":"Espinacas","t":"verdura","m":[2,3,4,9,10,11]}
+  ]},
+  "GRC": { "name": "Grecia", "name_en": "Greece", "items": [
+    {"n":"Naranjas","t":"fruta","m":[0,1,2,11]},{"n":"Limones","t":"fruta","m":[0,1,2,3,11]},
+    {"n":"Fresas","t":"fruta","m":[3,4,5]},{"n":"Cerezas","t":"fruta","m":[4,5,6]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Uvas","t":"fruta","m":[8,9,10]},
+    {"n":"Sandías","t":"fruta","m":[6,7,8]},{"n":"Melocotones","t":"fruta","m":[5,6,7,8]},
+    {"n":"Olivas","t":"fruta","m":[9,10,11,0]},{"n":"Mandarinas","t":"fruta","m":[10,11,0,1]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Espinacas","t":"verdura","m":[2,3,4,9,10,11]},
+    {"n":"Berenjenas","t":"verdura","m":[5,6,7,8,9]}
+  ]},
+  "NGA": { "name": "Nigeria", "name_en": "Nigeria", "items": [
+    {"n":"Mangos","t":"fruta","m":[2,3,4,5,6]},{"n":"Piñas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Okra","t":"verdura","m":[5,6,7,8,9,10]},{"n":"Ñame","t":"verdura","m":[7,8,9,10]},
+    {"n":"Tomates","t":"verdura","m":[0,1,2,3,10,11]}
+  ]},
+  "ETH": { "name": "Etiopía", "name_en": "Ethiopia", "items": [
+    {"n":"Mangos","t":"fruta","m":[3,4,5,6,7]},{"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Café (cerezo)","t":"fruta","m":[9,10,11,0,1]},
+    {"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Teff","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "ECU": { "name": "Ecuador", "name_en": "Ecuador", "items": [
+    {"n":"Bananas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Mangos","t":"fruta","m":[10,11,0,1,2,3]},{"n":"Pitahaya","t":"fruta","m":[10,11,0,1,2,3]},
+    {"n":"Maracuyá","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Naranjilla","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Tomate de árbol","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Brócoli","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Palmito","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "CRI": { "name": "Costa Rica", "name_en": "Costa Rica", "items": [
+    {"n":"Piñas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Mangos","t":"fruta","m":[2,3,4,5,6]},{"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Maracuyá","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Aguacates","t":"fruta","m":[0,1,2,3,4,5,6]},
+    {"n":"Pejibayes","t":"fruta","m":[5,6,7,8,9]},
+    {"n":"Chayote","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "RUS": { "name": "Rusia", "name_en": "Russia", "items": [
+    {"n":"Fresas","t":"fruta","m":[6,7]},{"n":"Grosellas","t":"fruta","m":[6,7,8]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10]},{"n":"Arándanos","t":"fruta","m":[7,8]},
+    {"n":"Frambuesas","t":"fruta","m":[6,7,8]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Patatas","t":"verdura","m":[6,7,8,9,10]},{"n":"Pepinos","t":"verdura","m":[6,7,8]},
+    {"n":"Tomates","t":"verdura","m":[6,7,8,9]},{"n":"Remolacha","t":"verdura","m":[7,8,9,10,11]},
+    {"n":"Coles","t":"verdura","m":[7,8,9,10,11]}
+  ]},
+  "POL": { "name": "Polonia", "name_en": "Poland", "items": [
+    {"n":"Fresas","t":"fruta","m":[5,6,7]},{"n":"Grosellas","t":"fruta","m":[6,7,8]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Arándanos","t":"fruta","m":[6,7,8]},{"n":"Frambuesas","t":"fruta","m":[5,6,7,8]},
+    {"n":"Remolacha","t":"verdura","m":[8,9,10,11]},{"n":"Coles","t":"verdura","m":[7,8,9,10,11]},
+    {"n":"Zanahorias","t":"verdura","m":[6,7,8,9,10,11]},{"n":"Champiñones","t":"verdura","m":[8,9,10]}
+  ]},
+  "MDG": { "name": "Madagascar", "name_en": "Madagascar", "items": [
+    {"n":"Mangos","t":"fruta","m":[9,10,11,0,1,2]},{"n":"Lichis","t":"fruta","m":[10,11,0]},
+    {"n":"Vainilla","t":"fruta","m":[5,6,7]},{"n":"Clavo","t":"fruta","m":[4,5,6,7]},
+    {"n":"Piñas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "PAK": { "name": "Pakistán", "name_en": "Pakistan", "items": [
+    {"n":"Mangos Sindhri","t":"fruta","m":[5,6,7]},{"n":"Guayaba","t":"fruta","m":[9,10,11,0]},
+    {"n":"Albaricoques Hunza","t":"fruta","m":[5,6,7]},{"n":"Kinnow","t":"fruta","m":[0,1,2,11]},
+    {"n":"Dátiles","t":"fruta","m":[8,9,10]},{"n":"Melones","t":"fruta","m":[5,6,7,8]},
+    {"n":"Tomates","t":"verdura","m":[0,1,2,3,10,11]},{"n":"Okra","t":"verdura","m":[4,5,6,7,8]}
+  ]},
+  "UZB": { "name": "Uzbekistán", "name_en": "Uzbekistan", "items": [
+    {"n":"Albaricoques Khurmachi","t":"fruta","m":[5,6,7]},{"n":"Melones de Fergana","t":"fruta","m":[6,7,8,9]},
+    {"n":"Uvas","t":"fruta","m":[7,8,9,10]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Tomates","t":"verdura","m":[5,6,7,8,9]},{"n":"Pimientos","t":"verdura","m":[6,7,8,9]}
+  ]},
+  "GEO": { "name": "Georgia", "name_en": "Georgia", "items": [
+    {"n":"Caquis","t":"fruta","m":[9,10,11]},{"n":"Granadas","t":"fruta","m":[9,10,11]},
+    {"n":"Higos","t":"fruta","m":[7,8,9]},{"n":"Uvas Rkatsiteli","t":"fruta","m":[8,9,10]},
+    {"n":"Cerezas","t":"fruta","m":[5,6,7]},{"n":"Mandarinas Ajaria","t":"fruta","m":[10,11,0,1]},
+    {"n":"Avellanas","t":"fruta","m":[9,10]}
+  ]},
+  "CAN": { "name": "Canadá", "name_en": "Canada", "items": [
+    {"n":"Arándanos","t":"fruta","m":[6,7,8,9]},{"n":"Fresas","t":"fruta","m":[5,6,7]},
+    {"n":"Frambuesas","t":"fruta","m":[6,7,8]},{"n":"Cerezas","t":"fruta","m":[6,7,8]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Arándanos rojos","t":"fruta","m":[9,10]},
+    {"n":"Melocotones","t":"fruta","m":[7,8,9]},
+    {"n":"Calabaza","t":"verdura","m":[8,9,10,11]},{"n":"Maíz","t":"verdura","m":[7,8,9]},
+    {"n":"Espárragos","t":"verdura","m":[4,5,6]}
+  ]},
+  "SWE": { "name": "Suecia", "name_en": "Sweden", "items": [
+    {"n":"Fresas","t":"fruta","m":[5,6,7]},{"n":"Frambuesas","t":"fruta","m":[6,7,8]},
+    {"n":"Arándanos silvestres","t":"fruta","m":[7,8,9]},{"n":"Manzanas","t":"fruta","m":[8,9,10]},
+    {"n":"Espárragos","t":"verdura","m":[4,5,6]},{"n":"Patatas nuevas","t":"verdura","m":[5,6,7]},
+    {"n":"Remolacha","t":"verdura","m":[7,8,9,10]}
+  ]},
+  "NLD": { "name": "Países Bajos", "name_en": "Netherlands", "items": [
+    {"n":"Fresas","t":"fruta","m":[4,5,6,7]},{"n":"Frambuesas","t":"fruta","m":[5,6,7,8]},
+    {"n":"Manzanas","t":"fruta","m":[8,9,10,11]},{"n":"Peras","t":"fruta","m":[8,9,10,11]},
+    {"n":"Tomates de invernadero","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Pimientos de invernadero","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Espárragos","t":"verdura","m":[3,4,5,6]},{"n":"Cebollas","t":"verdura","m":[6,7,8,9,10]}
+  ]},
+  "HUN": { "name": "Hungría", "name_en": "Hungary", "items": [
+    {"n":"Albaricoques","t":"fruta","m":[6,7]},{"n":"Ciruelas","t":"fruta","m":[7,8,9]},
+    {"n":"Cerezas","t":"fruta","m":[5,6,7]},{"n":"Uvas","t":"fruta","m":[8,9,10]},
+    {"n":"Pimientos","t":"verdura","m":[6,7,8,9]},{"n":"Tomates","t":"verdura","m":[6,7,8,9]},
+    {"n":"Paprika","t":"verdura","m":[7,8,9,10]}
+  ]},
+  "DOM": { "name": "Rep. Dominicana", "name_en": "Dominican Republic", "items": [
+    {"n":"Mangos","t":"fruta","m":[4,5,6,7]},{"n":"Piñas","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Aguacates","t":"fruta","m":[2,3,4,5,6,7,8]},
+    {"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Guanábana","t":"fruta","m":[4,5,6,7,8]},{"n":"Tomates","t":"verdura","m":[0,1,2,10,11]}
+  ]},
+  "LKA": { "name": "Sri Lanka", "name_en": "Sri Lanka", "items": [
+    {"n":"Mangos","t":"fruta","m":[3,4,5,6]},{"n":"Rambután","t":"fruta","m":[6,7,8]},
+    {"n":"Jackfruit","t":"fruta","m":[2,3,4,5,6]},{"n":"Papaya","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Plátanos","t":"fruta","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Té de Ceilán","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]},
+    {"n":"Canela","t":"verdura","m":[0,1,2,3,4,5,6,7,8,9,10,11]}
+  ]},
+  "URY": { "name": "Uruguay", "name_en": "Uruguay", "items": [
+    {"n":"Uvas","t":"fruta","m":[0,1,2,3]},{"n":"Duraznos","t":"fruta","m":[11,0,1,2]},
+    {"n":"Manzanas","t":"fruta","m":[1,2,3,4]},{"n":"Arándanos","t":"fruta","m":[10,11,0,1]},
+    {"n":"Tomates","t":"verdura","m":[11,0,1,2,3]},{"n":"Morrones","t":"verdura","m":[11,0,1,2,3]}
+  ]},
+  "ISR": { "name": "Israel", "name_en": "Israel", "items": [
+    {"n":"Pomelos","t":"fruta","m":[0,1,2,3,11]},{"n":"Dátiles","t":"fruta","m":[8,9,10,11]},
+    {"n":"Clementinas","t":"fruta","m":[10,11,0,1]},{"n":"Melones","t":"fruta","m":[5,6,7,8]},
+    {"n":"Aguacates","t":"fruta","m":[9,10,11,0,1,2]},{"n":"Fresas","t":"fruta","m":[0,1,2,3]},
+    {"n":"Tomates cherry","t":"verdura","m":[0,1,2,3,9,10,11]},
+    {"n":"Pimientos","t":"verdura","m":[0,1,2,3,9,10,11]}
+  ]}
+}
