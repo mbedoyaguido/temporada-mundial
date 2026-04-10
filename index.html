@@ -288,7 +288,7 @@ async function init(){
   SEASONAL=await res.json();
 
   const world=await fetch('https://cdn.jsdelivr.net/npm/world-atlas@2.0.2/countries-110m.json').then(r=>r.json());
-  const countries=TopoJSON.feature(world,world.objects.countries).features;
+  const countries=topojson.feature(world,world.objects.countries).features;
 
   countries.forEach(c=>{
     const code=NUM_TO_A3[parseInt(c.id)]||'';
